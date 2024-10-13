@@ -14,3 +14,9 @@ git commit -m "Initial commit"
 git add --all
 git push -u origin master
 git commit -m "Initial commit"
+
+
+git config --global user.name "Karthik Kannan"
+git config --global user.email "kb.j2ee@gmail.com"
+
+git commit -m "first version of website"
