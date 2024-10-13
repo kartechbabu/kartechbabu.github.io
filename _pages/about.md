@@ -1,12 +1,91 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+# title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+<!-- ![Profile Image](./images/DALL·E%202024-10-12%2022.58.27.png) -->
+<!-- <img src="./images/DALL·E%202024-10-12%2022.58.27.png" alt="Profile Image" width="800" height="100"> -->
+<!-- <img src="./images/DALL·E%202024-10-12%2022.58.27.png" alt="Profile Image" width="800" height="10px"> -->
+
+
+I am an Assistant Professor of IT and Operations Management at Southern Methodist University's Cox School of Business. My research primarily investigates the societal and enterprise-level impacts of digitization and artificial intelligence, with a special focus on marginalized groups and underserved communities. At the societal level, I explore how digital technologies influence social and economic inequalities, working with organizations like the FCC and NTIA to inform policy initiatives aimed at bridging the digital divide. My work on education investigates the impact of digital and non-digital supplemental learning products, emphasizing the potential for mitigating digital inequality and enhancing educational equity.
+
+At the enterprise level, my research explores how business leaders can leverage AI and analytics to optimize operations and enhance decision-making. I have ongoing projects that examine the use of generative AI tools in software development, focusing on how these tools affect both productivity and long-term software quality. Additionally, I have extensive experience collaborating with the cultural sector to study the effects of digitization, such as the impact of work-from-home trends on consumer behavior in the performing arts. My diverse research interests reflect my commitment to advancing both the theory and practical application of digital technologies in various sectors of society.
+
+I have been recognized for my contributions to research and teaching with several prestigious awards. I received the C. Jackson Grayson Endowed Faculty Innovation Award from the Cox School of Business for excellence in teaching, and was nominated by students for the "Honoring Our Professors' Excellence" award in 2023. I have also been a Donna Wilhelm Research Fellow at SMU DataArts, where I studied the impact of digitization and AI/ML in the U.S. cultural sector. Additionally, I received a grant from the Marketing Science Institute to support my research on the performing arts industry.
+
+### Employment
+- **Southern Methodist University, Cox School of Business**  
+  - Assistant Professor of IT and Operations Management: 08/2019 - current
+  - Instructor of IT and Operations Management: 08/2018 - 07/2019
+- **Tata Consultancy Services**: 06/2002 - 12/2011  
+  - Consulting: Telecom companies in the USA, The Home Depot, Johnson and Johnson, GE, Citigroup
+
+### Education
+- **Scheller College of Business, Georgia Institute of Technology, Atlanta, GA**  
+  - Ph.D. in Information Technology Management: August 2018  
+  - Thesis Committee: Sridhar Narasimhan (co-chair), Yu Jeffrey Hu (co-chair), Eric Overby, Saby Mitra, Chris Forman
+- **College of Engineering, Guindy - Anna University, Chennai, India**  
+  - Bachelor of Engineering, Mechanical Engineering: July 2002
+
+### Affiliations
+- **Southern Methodist University, Cox School of Business**
+  - Faculty Affiliate, Data Science Institute (DSI): 08/2023 - current
+  - Faculty Affiliate, Center for Scientific Computation (CRC): 08/2019 - 08/2023
+  - Donna Wilhelm Research Fellow - SMU DataArts: 11/2019 - 05/2023
+  - Maneframe III planning committee, CRC: 04/2022 - 06/2022
+- **IEEE**
+  - Senior Member: 08/2024 - current
+- **National Telecommunications and Information Administration (NTIA)**
+  - Merit Reviewer: 10/2021 - 03/2022
+
+### Awards and Honors
+- Nominated by students for the "Honoring Our Professors' Excellence" award in April 2023.
+- **C. Jackson Grayson Endowed Faculty Innovation Award (2021)**. This was given by Cox School of Business to recognize excellence in teaching.
+- Invited to present at the inaugural SMU Research Computing Day organized by the Center for Scientific Computation.
+- **Donna Wilhelm Research Fellow** - SMU DataArts from 2019-2023. This fellowship was awarded to study the impact of digitization and AI/ML in the U.S. cultural sector.
+- **2021 ICIS Junior Faculty Consortium**, Austin, TX.
+- Received a grant of $5,000 from Marketing Science Institute (MSI) in December 2021.
+- Served as occupation expert for **Occupational Information Network (O*NET), U.S. Department of Labor (2021)**.
+- Served as grant reviewer for President Joe Biden's broadband infrastructure development plan. Utilized expertise in how internet connectivity impacts social and economic inequality to evaluate grant proposals for the **National Telecommunications and Information Administration's (NTIA)** different broadband connectivity programs: Tribal Broadband Connectivity Program and Connecting Minority Communities (CMC) Pilot Program. These programs aim to provide cost-effective, high-speed internet services to rural areas and underserved communities.
+- Inducted into the **Kappa chapter of Alpha Iota Delta**, an International Honor Society in the Decision Sciences and Information Systems. This honorary society is dedicated to building and improving skills in problem isolation, data analysis, modeling competence, information technology, and interpersonal skills.
+- Scholarship to attend **Esri's Leadership Workshop on Location Analytics in Business (2018)**.
+- **President/Dean's Fellowship** at Georgia Tech (2012).
+- Served as a judge for the **American Society for Quality’s International Team Excellence Award**, Charlotte, NC (2009).
+- **American Society for Quality (ASQ) certified Six Sigma Black Belt (2005)**.
+- **Certified Reliability Professional (CRP)** awarded by the Department of Information Technology, Ministry of Communications and Information Technology, Government of India (2006).
+- **Sun Certified Java Programmer (2005)**.
+
+### Service
+- **Session Chair**:
+  - 2017 INFORMS Annual Conference for a session on social media analytics.
+  - 2016 Conference on Information Systems and Technology (CIST).
+
+- **Committee**:
+  - Program committee member for the 2024 Conference on Information Systems and Technology (CIST).
+  - Search committee for the DataArts Research Director (May 2024 – Aug 2024).
+  - Search committee for the DataArts Research Director (November 2022 – Jan 2023).
+  - Committee member representing the Meadows School of Arts for the Data Science Cluster Hire working group (Summer of 2022).
+  - Maneframe III planning committee, Center for Scientific Computation (CRC) – 2021-2022: This committee was instrumental in selecting the NVIDIA DGX SuperPOD, a state-of-the-art GPU system to run the latest Artificial Intelligence models.
+  - Program committee member for Pre-ICIS SIGBPS 2019 Workshop on Blockchain and Smart Contract.
+
+- **Served as an anonymous referee for the following journals and conferences**:
+  - **Journals**: MIS Quarterly, Management Science, Production and Operations Management, Information Systems Research, Journal of Database Management, Electronic Commerce Research.
+  - **Conferences**: Conference on Information Systems and Technology (CIST), International Conference on Information Systems (ICIS).
+
+
+<!-- Karthik Babu Nattamai Kannan is an Assistant Professor of IT and Operations Management at Southern Methodist University's Cox School of Business. His research primarily investigates the societal and enterprise-level impacts of digitization and artificial intelligence, with a special focus on marginalized groups and underserved communities. At the societal level, Karthik explores how digital technologies influence social and economic inequalities, working with organizations like the FCC and NTIA to inform policy initiatives aimed at bridging the digital divide. His work on education investigates the impact of digital and non-digital supplemental learning products, emphasizing the potential for mitigating digital inequality and enhancing educational equity.
+
+At the enterprise level, Karthik's research explores how business leaders can leverage AI and analytics to optimize operations and enhance decision-making. He has ongoing projects that examine the use of generative AI tools in software development, focusing on how these tools affect both productivity and long-term software quality. Additionally, Karthik has extensive experience collaborating with the cultural sector to study the effects of digitization, such as the impact of work-from-home trends on consumer behavior in the performing arts. His diverse research interests reflect his commitment to advancing both the theory and practical application of digital technologies in various sectors of society.
+
+Karthik has been recognized for his contributions to research and teaching with several prestigious awards. He received the C. Jackson Grayson Endowed Faculty Innovation Award from the Cox School of Business for excellence in teaching, and was nominated by students for the "Honoring Our Professors' Excellence" award in 2023. He has also been a Donna Wilhelm Research Fellow at SMU DataArts, where he studied the impact of digitization and AI/ML in the U.S. cultural sector. Additionally, Karthik received a grant from the Marketing Science Institute to support his research on the performing arts industry. -->
+
+<!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -47,3 +126,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+ -->

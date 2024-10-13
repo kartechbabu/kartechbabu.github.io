@@ -7,8 +7,13 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<iframe src="../files/01_profile_Karthik_CV_2024_v15.pdf" width="100%" height="1200px">
+  This browser does not support PDFs. Please download the PDF to view it: 
+  <a href="../files/01_profile_Karthik_CV_2024_v15.pdf">Download PDF</a>.
+</iframe>
 
+<!-- {% include base_path %} -->
+<!-- 
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
@@ -61,4 +66,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams 
+-->
