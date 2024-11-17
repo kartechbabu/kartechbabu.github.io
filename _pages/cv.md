@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="../files/01_profile_Karthik_CV_2024_v15.pdf" width="100%" height="1200px">
+<iframe src="../files/01_profile_Karthik_CV_2024_v21.pdf" width="100%" height="1200px">
   This browser does not support PDFs. Please download the PDF to view it: 
-  <a href="../files/01_profile_Karthik_CV_2024_v15.pdf">Download PDF</a>.
+  <a href="../files/01_profile_Karthik_CV_2024_v21.pdf">Download PDF</a>.
 </iframe>
 
 <!-- {% include base_path %} -->
