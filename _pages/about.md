@@ -25,9 +25,9 @@ In his first stream of research, Dr. Kannan examines how digital technologies in
 
 At the enterprise level, Dr. Kannan explores how business leaders can leverage AI and analytics to optimize operations and enhance decision-making. In ongoing projects, he examines the use of generative AI tools in software development, focusing on how these tools affect productivity and long-term software quality. He served as a **Donna Wilhelm Research Fellow at SMU DataArts**, where he studied the impact of digitization and AI/ML in the U.S. cultural sector that directly related to policy priorities of the **National Endowment for the Arts**. Additionally, Dr. Kannan received a grant from the **Marketing Science Institute** to support his research on the effect of Work-from-home (remote work) on the demand for in-person performances in the non-profit cultural industry. His diverse research interests reflect a commitment to advancing both the theoretical and practical applications of digital technologies across various sectors of society.
 
-Dr. Kannan has been recognized for his contributions to research and teaching with several prestigious awards. For excellence in teaching, he received the C. Jackson Grayson Endowed Faculty Innovation Award from the Cox School of Business and was nominated by students for the “Honoring Our Professors’ Excellence” award in 2023. 
+Dr. Nattamai Kannan has been recognized for his contributions to research and teaching with several prestigious awards. For excellence in teaching, he received the C. Jackson Grayson Endowed Faculty Innovation Award from the Cox School of Business and was nominated by students for the “Honoring Our Professors’ Excellence” award in 2023. 
 
-He holds a Ph.D. in Information Technology Management from the Scheller College of Business, Georgia Institute of Technology. Before transitioning to academia, Dr. Kannan provided technology consulting for Fortune 500 companies including GE, The Home Depot, Johnson & Johnson, and Citigroup. He has hands-on expertise in enterprise software development, having worked across the full Software Development Life Cycle (SDLC) – from coding and system design to serving as an architect and manager. He is also a Sun Certified Java Programmer and is proficient in Python, R, and a wide range of data science tools, including big data technologies, further underscoring his technical expertise. This diverse experience honed his expertise in the strategic use of information technology within enterprises and its potential to drive organizational efficiency and societal improvement.
+Dr. Nattamai Kannan holds a Ph.D. in Information Technology Management from the Scheller College of Business, Georgia Institute of Technology. Before transitioning to academia, Dr. Kannan provided technology consulting for Fortune 500 companies including GE, The Home Depot, Johnson & Johnson, and Citigroup. He has hands-on expertise in enterprise software development, having worked across the full Software Development Life Cycle (SDLC) – from coding and system design to serving as an architect and manager. He is also a Sun Certified Java Programmer and is proficient in Python, R, and a wide range of data science tools, including big data technologies, further underscoring his technical expertise. This diverse experience honed his expertise in the strategic use of information technology within enterprises and its potential to drive organizational efficiency and societal improvement.
 
 
 ### Employment
@@ -55,6 +55,8 @@ He holds a Ph.D. in Information Technology Management from the Scheller College 
 - **National Telecommunications and Information Administration (NTIA)**
   - Merit Reviewer: 10/2021 - 03/2022
 
+
+<!-- 
 ### Awards and Honors
 - Nominated by students for the "Honoring Our Professors' Excellence" award in April 2023.
 - **C. Jackson Grayson Endowed Faculty Innovation Award (2021)**. This was given by Cox School of Business to recognize excellence in teaching.
@@ -87,7 +89,7 @@ He holds a Ph.D. in Information Technology Management from the Scheller College 
 
 - **Served as an anonymous referee for the following journals and conferences**:
   - **Journals**: MIS Quarterly, Management Science, Production and Operations Management, Information Systems Research, Journal of Database Management, Electronic Commerce Research.
-  - **Conferences**: Conference on Information Systems and Technology (CIST), International Conference on Information Systems (ICIS).
+  - **Conferences**: Conference on Information Systems and Technology (CIST), International Conference on Information Systems (ICIS). -->
 
 
 <!-- Karthik Babu Nattamai Kannan is an Assistant Professor of IT and Operations Management at Southern Methodist University's Cox School of Business. His research primarily investigates the societal and enterprise-level impacts of digitization and artificial intelligence, with a special focus on marginalized groups and underserved communities. At the societal level, Karthik explores how digital technologies influence social and economic inequalities, working with organizations like the FCC and NTIA to inform policy initiatives aimed at bridging the digital divide. His work on education investigates the impact of digital and non-digital supplemental learning products, emphasizing the potential for mitigating digital inequality and enhancing educational equity.
