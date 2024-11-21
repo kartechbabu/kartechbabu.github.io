@@ -37,7 +37,7 @@ author_profile: true
      - [YouTube webinar link](https://www.youtube.com/watch?v=FnO6Kbfn6tw&t=1s), [Attendance Prediction February 2022](https://www.culturaldata.org/pages/attendance-prediction/), [Attendance Prediction June 2022](https://culturaldata.org/pages/attendance-prediction-june2022/), [Attendance Prediction Spring 2022](https://culturaldata.org/pages/attendance-prediction-spring2022/)
 4. **Leveraging Public Facilities to Improve Access to Performing Arts Facilities: An Empirical Analysis** with Young Woong Park and Sridhar Narasimhan  [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335917)  
    - Under revision, with planned submission to  *Journal of Marketing*  
-   - Presentations: COX ITOM Brown Bag Seminar in May 2023, Marketing Science DSI Conference @ SMU (March 2023), 2022 INFORMS Annual Conference, 2023 POMS Annual Conference. Preparing to submit to *Information Systems Research*.
+   - Presentations: COX ITOM Brown Bag Seminar in May 2023, Marketing Science DSI Conference @ SMU (March 2023), 2022 INFORMS Annual Conference, 2023 POMS Annual Conference.
 5. **Data-Driven Decision Making in US Non-Profit Sector: A Quasi-Experimental Analysis**  
    - In this study, I assess the impact of the Bloomberg Philanthropies Arts Innovation and Management (AIM) program launched in 2011 as part of the American Cities Initiative. This AIM program has provided $119 million to build the capacity of small and mid-sized nonprofit arts and cultural organizations. It was piloted with organizations in New York City from 2011-2013, and 13 more cities joined in 2018.  
    - Preparing to submit to *Information Systems Research*.  
