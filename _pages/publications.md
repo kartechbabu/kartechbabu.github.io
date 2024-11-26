@@ -7,8 +7,12 @@ author_profile: true
 ---
 
 ### Research Interests
-- Generative AI in software engineering, e-commerce.
-- Digitization in education, cultural sectors, and e-commerce.
+- **Digital Economics**: Exploring digitization, digital inequality, and the economic implications of digital technologies.
+- **Artificial Intelligence**: Studying generative AI applications in software engineering, e-commerce, and decision-making.
+
+<!-- - Generative AI in software engineering, e-commerce.
+- Digitization in education, cultural sectors, and e-commerce. -->
+
 
 ### Methodologies
 - Econometrics, natural and field experiments
